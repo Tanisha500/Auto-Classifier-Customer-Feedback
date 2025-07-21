@@ -49,6 +49,6 @@ This project is a low-code automation built with **n8n** that reads customer fee
 <img width="1472" height="284" alt="Screenshot 2025-07-13 211449" src="https://github.com/user-attachments/assets/76090cbd-5f28-4884-adc9-acb9477d97d8" />
 
 
-##  Googlee Sheet Output
+##  Google Sheet Output
 
 <img width="928" height="194" alt="Screenshot 2025-07-13 214511" src="https://github.com/user-attachments/assets/8735144a-7788-479d-a91b-440a7d3b861d" />
